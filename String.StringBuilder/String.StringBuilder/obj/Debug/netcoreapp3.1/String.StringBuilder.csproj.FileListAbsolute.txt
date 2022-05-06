@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\bin\Debug\netcoreapp3.1\String.StringBuilder.exe
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\bin\Debug\netcoreapp3.1\String.StringBuilder.deps.json
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\bin\Debug\netcoreapp3.1\String.StringBuilder.runtimeconfig.json
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\bin\Debug\netcoreapp3.1\String.StringBuilder.runtimeconfig.dev.json
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\bin\Debug\netcoreapp3.1\String.StringBuilder.dll
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\bin\Debug\netcoreapp3.1\String.StringBuilder.pdb
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\obj\Debug\netcoreapp3.1\String.StringBuilder.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\obj\Debug\netcoreapp3.1\String.StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\obj\Debug\netcoreapp3.1\String.StringBuilder.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\obj\Debug\netcoreapp3.1\String.StringBuilder.AssemblyInfo.cs
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\obj\Debug\netcoreapp3.1\String.StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\obj\Debug\netcoreapp3.1\String.StringBuilder.dll
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\obj\Debug\netcoreapp3.1\String.StringBuilder.pdb
+C:\Users\99470\source\repos\String.StringBuilder\String.StringBuilder\obj\Debug\netcoreapp3.1\String.StringBuilder.genruntimeconfig.cache
